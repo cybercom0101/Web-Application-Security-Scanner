@@ -52,11 +52,11 @@ The **Web Application Security Scanner** is a Python-based tool designed to iden
    Enter the URL to scan: http://example.com
 
 ## Logging
-    All scan results and errors are recorded in the web_scanner.log file. This log can be reviewed to understand detected vulnerabilities and any issues encountered during the scan.
+   - All scan results and errors are recorded in the web_scanner.log file. This log can be reviewed to understand detected vulnerabilities and any issues encountered during the scan.
 
 ## License
-    This project is licensed under the MIT License. See the LICENSE file for details.
+   - This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Disclaimer
-    This tool is intended for educational purposes and authorized security testing only. Ensure you have permission before scanning any web application.
+   - This tool is intended for educational purposes and authorized security testing only. Ensure you have permission before scanning any web application.
 
