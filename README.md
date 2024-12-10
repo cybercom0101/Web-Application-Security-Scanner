@@ -35,7 +35,7 @@ The **Web Application Security Scanner** is a Python-based tool designed to iden
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/web-app-security-scanner.git
+   git clone https://github.com/cybercom0101/web-app-security-scanner.git
    cd web-app-security-scanner
 
 2. **Install the required libraries**:
